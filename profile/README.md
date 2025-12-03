@@ -7,7 +7,7 @@ durability, retries, state, traces, and evals — so your workflows recover inst
 
 ---
 
-## 🚀 What you can build with AGNT5
+## What you can build with AGNT5
 
 - **Durable AI workflows**  
   Long-running, multi-step flows that survive crashes, restarts, and deploys.
@@ -23,7 +23,7 @@ durability, retries, state, traces, and evals — so your workflows recover inst
 
 ---
 
-## 🧱 Core building blocks
+## Core building blocks
 
 AGNT5 gives you production primitives most teams end up rebuilding:
 
@@ -36,7 +36,7 @@ AGNT5 gives you production primitives most teams end up rebuilding:
 
 ---
 
-## 🧪 Quick taste (Python)
+## Quick taste (Python)
 
 ```python
 from agnt5 import durable, Context
